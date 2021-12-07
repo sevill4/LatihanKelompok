@@ -9,6 +9,7 @@ namespace LatihanKelompok
             Console.WriteLine("Hello World!");
             Console.WriteLine("Latihan pemrograman lanjut");
             Console.WriteLine("Latihan Praktikum Pertemuan 8");
+            Console.WriteLine("Latihan praktikum publish ke GitHub");
         }
     }
 }

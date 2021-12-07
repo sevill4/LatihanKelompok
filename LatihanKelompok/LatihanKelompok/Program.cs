@@ -8,6 +8,7 @@ namespace LatihanKelompok
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Latihan pemrograman lanjut");
+            Console.WriteLine("Latihan Praktikum Pertemuan 8");
         }
     }
 }
